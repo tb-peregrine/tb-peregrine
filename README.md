@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tb-peregrine
-- 👀 My real name is Cameron Archer, and I'm the Content Marketing Lead at [Tinybird.co](https://www.tinybird.co)
+- 👀 My real name is Cameron Archer, and I'm the Content Marketing Lead at [Tinybird](https://www.tinybird.co)
 - 🌱 I'm just a noob Content Marketer trying to make it in the data world
 - 📫 You can reach me at [cameronarcher@tinybird.co](mailto:cameronarcher@tinybird.co)
